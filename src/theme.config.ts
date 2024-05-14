@@ -23,11 +23,11 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "",
+      href: "https://twitter.com/Allenwi1123",
     },
     {
-      name: "mastodon",
-      href: "",
+      name: "whatsapp",
+      href: "https://chat.whatsapp.com/E8cBJWZ6j7KGEJIB8jEFGQ",
     }
   ],
   /** your header info */
