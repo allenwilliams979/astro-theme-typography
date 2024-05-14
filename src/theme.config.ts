@@ -22,12 +22,12 @@ export const THEME_CONFIG: App.Locals['config'] = {
       href: "/atom.xml",
     },
     {
-      name: "",
-      href: "",
-    },
-    {
       name: "whatsapp",
       href: "https://chat.whatsapp.com/E8cBJWZ6j7KGEJIB8jEFGQ",
+    },
+    {
+      name: "",
+      href: "",
     }
   ],
   /** your header info */
