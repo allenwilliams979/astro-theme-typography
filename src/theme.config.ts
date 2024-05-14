@@ -22,8 +22,8 @@ export const THEME_CONFIG: App.Locals['config'] = {
       href: "/atom.xml",
     },
     {
-      name: "twitter",
-      href: "https://twitter.com/Allenwi1123",
+      name: "telegram",
+      href: "t.me/+yF2SVTmmPOs5YThl",
     },
     {
       name: "whatsapp",
